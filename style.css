@@ -1,0 +1,21 @@
+
+h1{
+    color: yellow;
+    background-color: grey;
+}
+
+h3{
+    color: green;
+    background-color:silver;
+}
+
+p{
+    color: red;
+}
+
+h1+h3{
+    color: crimson;
+}
+
+
+
